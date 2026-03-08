@@ -25,5 +25,5 @@
 <h2 align="center">🛠 Languages & Tools</h2>
 
 <p align="center">
-AWS | Linux | Terraform | Docker | Kubernetes | Git | GitHub | Ansible | Grafana | Prometheus
+<img src="https://skillicons.dev/icons?i=aws,linux,terraform,docker,kubernetes,git,github,ansible,grafana,prometheus" />
 </p>
