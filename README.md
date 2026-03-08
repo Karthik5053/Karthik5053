@@ -23,7 +23,16 @@
 ## 🛠️ Languages & Tools
 
 AWS <p>
-<img src= "<img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/ddbb907e-9f90-4224-8984-5b63a974389c" /"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="35"/>
 </p>
 | Linux <img width="206" height="244" alt="image" src="https://github.com/user-attachments/assets/506a1e34-fac8-4c21-9768-859994ffe169" />
  | Terraform <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f1d7c39d-3793-4c7d-a2df-6679dd04a659" />
