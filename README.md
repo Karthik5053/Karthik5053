@@ -22,7 +22,9 @@
 
 ## 🛠️ Languages & Tools
 
-AWS <img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/ddbb907e-9f90-4224-8984-5b63a974389c" />
+AWS <p>
+<img src= "<img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/ddbb907e-9f90-4224-8984-5b63a974389c" /"
+</p>
 | Linux <img width="206" height="244" alt="image" src="https://github.com/user-attachments/assets/506a1e34-fac8-4c21-9768-859994ffe169" />
  | Terraform <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f1d7c39d-3793-4c7d-a2df-6679dd04a659" />
 | Docker <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/426f5e53-fd9b-4423-8a9f-25a44cb8c903" />
