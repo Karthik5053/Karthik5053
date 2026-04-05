@@ -9,8 +9,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 - 🚀 DevOps enthusiast focused on cloud automation and scalable infrastructure
 - ☁️ Hands-on experience with AWS, Terraform, Docker, and Kubernetes
 - ⚙️ Building Infrastructure as Code and CI/CD automation pipelines
